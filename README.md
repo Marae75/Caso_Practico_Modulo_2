@@ -15,7 +15,8 @@ Determinar areas de oportunidades, en funcion de la informacion propocionada, pa
 ## RESULTADOS
 1. El genero no es significativo en lo que respecta al numero de transacciones, ni en acumulado de venta.
 
-![Captura de pantalla 2024-07-21 123657](https://github.com/user-attachments/assets/36100be1-4102-4a1d-97c9-da7142db24a9)
+![Captura de pantalla 2024-07-21 123657](https://github.com/user-attachments/assets/9c9150ef-dc9b-472f-9152-dace2d14eebe)
+
 
 2. En Acumulado de Ventas, la categoria "Ropa" es ligeramente superior en el genero Femenino y la Categoria "Electronica" en el masculino.
 
