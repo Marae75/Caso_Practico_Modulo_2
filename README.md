@@ -20,7 +20,7 @@ Determinar areas de oportunidades, en funcion de la informacion propocionada, pa
 
 2. En Acumulado de Ventas, la categoria "Ropa" es ligeramente superior en el genero Femenino y la Categoria "Electronica" en el masculino.
 
-![Captura de pantalla 2024-07-21 124154](https://github.com/user-attachments/assets/6655dd80-b273-4579-944f-f3ab08347b3a)
+![Captura de pantalla 2024-07-21 124154](https://github.com/user-attachments/assets/e620fcee-8c47-4912-ad50-227233bfbb26)
 
 3. Las 3 ventas acumuladas principales estuvieron en orden desendente en los 43, 34 y 51 años.
 
