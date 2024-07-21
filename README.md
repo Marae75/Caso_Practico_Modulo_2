@@ -24,4 +24,4 @@ Determinar areas de oportunidades, en funcion de la informacion propocionada, pa
 
 3. Las 3 ventas acumuladas principales estuvieron en orden desendente en los 43, 34 y 51 años.
 
-![Captura de pantalla 2024-07-21 124819](https://github.com/user-attachments/assets/9a05c032-e4f4-4249-9358-d248c8fa940b)
+![Captura de pantalla 2024-07-21 124819](https://github.com/user-attachments/assets/39e34fd1-adad-4de1-8f71-1bb4b30eb4af)
